@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 
-#Assignment 1 ; Question1
-#Team: Apurva Gupta, Anshul Jain, Chirag Gilani
-#To find good driving directions between pair of cities given by the user using four algorithms.
-#We have included our observations in readme file of question1.
+#To find good driving directions between pair of cities given by the user using four algorithms:bfs,dfs,ucs,astar.
 
 import sys
 import Queue

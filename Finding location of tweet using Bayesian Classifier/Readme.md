@@ -2,9 +2,12 @@ This program aims at finding that where was the tweet sent based on the content 
 
 Description of Files
 
-tweets.train - It contains tweets and correspodning cities where they were sent.
-tweets.test1 - It contains test file with correct city name labels and test tweets.
-geolocate.py - It contains the code written in python to implement bayesian classfier for finding city names in test file and calculate accuracy on test set.
+1. tweets.train - It contains tweets and correspodning cities where they were sent.
+
+2. tweets.test1 - It contains test file with correct city name labels and test tweets.
+
+3. geolocate.py - It contains the code written in python to implement bayesian classfier for finding city names in test file and calculate accuracy on test set.
+
 It is a classic implementation of Naive Bayes law in document classification using bag of words approach.
 
 To Run Program: ./geolocate.py training-file testing-file output-file
@@ -16,4 +19,5 @@ DATA PREPROCESSING
 2. Removed punctuations and stop words
 
 RESULTS
+
 Accuracy = 65.6%

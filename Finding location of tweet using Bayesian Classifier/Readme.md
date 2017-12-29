@@ -16,3 +16,4 @@ DATA PREPROCESSING
 2. Removed punctuations and stop words
 
 RESULTS
+Accuracy = 65.6%

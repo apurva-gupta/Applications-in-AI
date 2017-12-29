@@ -9,5 +9,4 @@ To Run Program:
 ./label.py part2 training_file testing_file
 
 Training_file and test_file contains word and corresponding POS tag for that word.
-
-There is blank line to indicate the end of sentence.
+There is blank line after set of words to indicate the end of sentence.

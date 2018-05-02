@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-#Team members: Surbhi Paithankar, Apurva Gupta
+
 #Program Title: Tweet Classification - Estimate where a Twitter "tweet" was sent, based only on the content of the tweet itself.
 # Description : The program is a classic implementation of Naive Bayes Law in document classification where we use bag of words for predicating the location. Each word is considered to be independent to other in the tweet.
 # The formalae used was : P(C|W)= min(-lnP(C)+sum(-lnP(Wi|C) for all i denoting all words)).

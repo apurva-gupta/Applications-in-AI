@@ -1,7 +1,7 @@
 ###################################
 # CS B551 Fall 2017, Assignment #3
 #
-# Apurva Gupta(guptaapu), Surbhi Paithankar (spaithan),  Hasika Mahatta(hmahtta)
+
 #
 # (Based on skeleton code by D. Crandall)
 #

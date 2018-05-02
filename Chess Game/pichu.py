@@ -2,7 +2,7 @@
 import sys
 from time import time
 
-#Team members:Apurva Gupta, Surbhi Paithankar
+
 #Title:Program to suggest the next best move for player in Game Pichu
 #Accepts three arguments in command line 1. current player-b/w 2. State of board 3. time limit (in sec)
 

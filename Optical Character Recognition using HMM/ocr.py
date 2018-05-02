@@ -4,7 +4,7 @@
 #     ./ocr.py train-image-file.png train-text.txt test-image-file.png 
 # Training file used during assignment: Tweets.train.txt
 
-# Authors: Apurva Gupta, Surbhi Paithankar, Hasika Mahtta
+
 # (based on skeleton code by D. Crandall, Oct 2017)
 #
 """
